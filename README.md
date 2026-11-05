@@ -16,7 +16,6 @@ Full-stack developer and automation engineer from Ukraine. I build things that w
 | [mailbox-manager](https://github.com/smile-sk/mailbox-manager) | Mailboxes by a click: persona generator, Proton and Tuta auto-registration, clean browser profile and proxy per mailbox |
 | [invoice-generator](https://github.com/smile-sk/invoice-generator) | PyQt6 desktop app: price lists, invoices, XLSX export, portable .exe |
 | [cashapi](https://github.com/smile-sk/cashapi) | An "API pharmacy": micro-utilities (validators, converters, generators) on RapidAPI, plus a demand scanner |
-| [autoclicker](https://github.com/smile-sk/autoclicker) | Minecraft autoclicker: auto-fishing with splash detection, humanized timing, anti-AFK camera movement |
 | [support-engine](https://github.com/smile-sk/support-engine) | One Telegram bot, many projects: support with the owner's personal account kept private |
 | [connectome-lab](https://github.com/smile-sk/connectome-lab) | Research: real connectomes as a source of architecture ideas for agent harnesses |
 | [synapse](https://github.com/smile-sk/synapse) | An autonomous neural organism: C. elegans connectome body, local LLM brain, missions, life and energy model |
