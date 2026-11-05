@@ -1,12 +1,13 @@
 # Hi, I'm Stas
 
-Full-stack developer and automation engineer from Ukraine. I build things that work around the clock: scraping and automation actors, crypto payment services, trading tools, desktop apps and games.
+Hardware sysadmin by trade. My working day is enterprise storage, servers and networks; the rest of the time I build things that run around the clock: scraping and automation actors, crypto payment services, trading tools, desktop apps and games.
 
 ## Portfolio
 
 | Project | What it is |
 |---|---|
 | [apify-actors](https://github.com/smile-sk/apify-actors) | Paid automation actors for the Apify Store, built pain-first: read the niche's 1-2 star reviews, close that pain in code, gate every release through QA |
+| [netapp-volume-utility](https://github.com/smile-sk/netapp-volume-utility) | Desktop tool for ONTAP storage admins: volumes, LUNs, mapping and inspection behind four validated forms, plus a live SSH console |
 | [CleanProd](https://github.com/smile-sk/CleanProd) | Automated crypto product sales: Telegram bots sell the CleanTrail TradingView system for USDT, verify payment on-chain and deliver; powered by our own CleanTrade Payment API |
 | [CryptoAI](https://github.com/smile-sk/CryptoAI) | Crypto market toolkit: OHLCV with indicators for 15 coins from Bybit, market digests for LLM analysis, and the CleanTrail Pine Script system |
 | [pump-sniper](https://github.com/smile-sk/pump-sniper) | Paper-trading instrument for pump.fun launches: bonding-curve tracker, entries at four realistic delays, honest PnL with real fees, zero real money |
@@ -23,7 +24,7 @@ Full-stack developer and automation engineer from Ukraine. I build things that w
 
 ## Stack
 
-Python, Node.js, FastAPI, TRON and Solana web3, Apify SDK, Playwright, PyQt6, SQLite, Linux server ops.
+Python, Node.js, FastAPI, TRON and Solana web3, Apify SDK, Playwright, PyQt6, SQLite, NetApp ONTAP CLI over SSH, Linux server ops.
 
 Every public repository is scrubbed: no keys, no passwords, no server addresses.
 
