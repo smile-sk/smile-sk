@@ -19,6 +19,7 @@ Full-stack developer and automation engineer from Ukraine. I build tools that ru
 | [autoclicker](https://github.com/smile-sk/autoclicker) | Low-latency Windows automation on DXGI desktop capture |
 | [support-engine](https://github.com/smile-sk/support-engine) | Telegram support bot engine for client projects |
 | [connectome-lab](https://github.com/smile-sk/connectome-lab) | Research: real connectomes as a source of architecture ideas for agent harnesses |
+| [synapse](https://github.com/smile-sk/synapse) | Autonomous neural organism: C. elegans connectome body, local LLM brain, missions, life/energy model |
 | [cleantrade-python](https://github.com/smile-sk/cleantrade-python) | Python SDK for the CleanProd payment gateway |
 
 ## Stack
