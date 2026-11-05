@@ -26,3 +26,7 @@ Full-stack developer and automation engineer from Ukraine. I build things that w
 Python, Node.js, FastAPI, TRON and Solana web3, Apify SDK, Playwright, PyQt6, SQLite, Linux server ops.
 
 Every public repository is scrubbed: no keys, no passwords, no server addresses.
+
+---
+
+> Note: portfolio snapshots. Day-to-day development happens in private repositories.
